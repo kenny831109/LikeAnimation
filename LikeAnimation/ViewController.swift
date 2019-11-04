@@ -45,7 +45,6 @@ class ViewController: UIViewController {
     //        UIView.animate(withDuration: duration) {
     //            likeIcon.alpha = 0
     //        }
-    //
     view.addSubview(likeIcon)
   }
   
